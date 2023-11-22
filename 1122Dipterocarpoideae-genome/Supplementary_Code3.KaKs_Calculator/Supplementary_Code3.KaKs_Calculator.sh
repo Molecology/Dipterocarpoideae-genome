@@ -1,0 +1,2 @@
+### The 'cds_genepairs' were identified using MCscanX, and synonymous substitution rates. Ks were calculated. The 'cds_genepairs' are the comparison sequences for CDS gene pairs. You can refer to the example files. The analysis can be applied to all our Ks analyses, including calculations for both orthologous gene pairs and paralogous gene pairs, with the input file format being the same.
+KaKs_Calculator -m MA -i cds_genepairs  -o cds_genepairs.kaks
